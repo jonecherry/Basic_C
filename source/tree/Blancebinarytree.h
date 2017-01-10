@@ -1,0 +1,14 @@
+//
+// Created by qsong on 2017/1/10.
+//
+
+#ifndef MACHINELEARNING2017_BLANCEBINARYTREE_H
+#define MACHINELEARNING2017_BLANCEBINARYTREE_H
+
+
+class Blancebinarytree {
+
+};
+
+
+#endif //MACHINELEARNING2017_BLANCEBINARYTREE_H
